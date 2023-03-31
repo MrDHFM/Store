@@ -1,0 +1,33 @@
+#corousel {
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.homeCardSection {
+}
+.bestOfSection {
+  display: flex;
+  justify-content: space-around;
+}
+
+.itemsCard {
+  box-shadow: 0 2px 18px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.itemCard {
+  box-shadow: 0 2px 18px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#itemName {
+  margin: 10px;
+  text-align: center;
+  height: 70px;
+  font-size: small;
+}
+
+#itemImg {
+  width: 70px;
+  height: 70px;
+  margin: auto;
+}

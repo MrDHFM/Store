@@ -1,0 +1,17 @@
+.loginCard {
+  width: 200px;
+  margin: auto;
+  margin-top: 50px;
+}
+.loginIcon {
+  width: 10%;
+  height: 10%;
+  margin: auto;
+  margin-top: 5%;
+}
+.cardLink {
+  font-size: small;
+  text-decoration: none;
+  margin: auto;
+  margin-bottom: 5%;
+}
